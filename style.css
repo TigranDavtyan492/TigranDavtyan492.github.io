@@ -1,0 +1,144 @@
+#award{
+	display: inline-block;
+	border-spacing: 10px;
+	border-collapse: 10px;
+	border-color: #c76136;
+	outline:solid;
+	outline-color: red;
+	margin-right: 10px;
+	width:500px;
+	height:25px;
+	font-size: 13px;
+    font-weight: normal;
+    background: orange;
+    color: #c76136;
+    padding: 8px;
+    text-align: center;
+    right:150px;
+}
+h1{
+	color: red;
+}
+#Ashotik{
+	display: table-cell;
+	vertical-align: top;
+    border-spacing: 10px;
+	border-collapse: 10px;
+	border-color: black;
+	border-radius: 25px;
+    border: 3px solid lightblue;
+	margin-top: 15px;
+	margin-left: 15px;
+	color: #ff5e00;
+	background-image: url("images/depositphotos_9214329-stock-photo-technical-engineering.jpg");
+	background-repeat: no-repeat;
+	width:400px;
+	height: 570px;
+}
+h3{
+	color:#ff5f00;
+}
+#main{
+	display: table-cell;
+	vertical-align: top;
+    border-spacing: 10px;
+	margin-top: 15px;
+	margin-left: 15px;
+	background-image: url("images/engineering-blueprint.jpg");
+    background-position: left;
+    background-size: cover;
+	width:760px;
+	height: 650px;
+	border-radius: 25px;
+    border: 3px solid lightblue;
+	background-repeat: no-repeat;
+	color:black;
+}
+#sidebar{
+	display: table-cell;
+	vertical-align: top;
+    border-spacing: 10px;
+	margin-top: 15px;
+	margin-left: 15px;
+	background-image: url("images/cie.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width:400px;
+	height: 570px;
+	text-align: center;
+	border-radius: 25px;
+    border: 3px solid lightblue;
+}
+.itl{
+	font-size:18.5px;
+	color:#ff5500;
+}
+body{
+	background-image: url("images/Techno.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+#footer{
+	clear: both;
+	background-color:#2eaba7;
+	background-size: 40px, 1000px;
+	text-align: center;
+	border-radius: 25px;
+    border: 3px solid lightblue;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+#slogan{
+	color:black;
+	font-size:18.5px;
+}
+a {
+	color: indianred;
+	text-decoration: underline red;
+}
+#table {
+  	display: table;
+  	display: table-cell;
+	vertical-align: top;
+border-spacing: 10px;
+  }
+#table-row {
+  	display: table-row;
+  }
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline-block;
+	border-spacing: 10px;
+	border-collapse: 10px;
+	border-color: blue;
+	border-radius: 15px;
+    border: 3px solid lightblue;
+	margin-right: 10px;
+	width:400px;
+	height:25px;
+	font-size: 13px;
+    font-weight: normal;
+    background: #2eaba7;
+    color: blue;
+    padding: 8px;
+    margin-left: 25px;
+}
+#Rabiz{
+    /*text-align:center;*/
+    background-image: url("images/Engineering-Fair-2018 (1).jpg");
+    border-radius: 50px;
+    border: 3px solid lightblue;
+    width:580px;
+    height:150px;
+    right:35%;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+.beanheading{
+	color:#ffa600;
+}
+.slogan{
+	color:#ff0d00;
+}
